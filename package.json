@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nickward414.github.io/robofriends",
+  "homepage": "https://nickward414.github.io/robofriends",
   "dependencies": {
     "chrome": "^0.1.0",
     "gh-pages": "^2.1.1",
