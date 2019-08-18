@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d61f83b979b166f8327b",
+    "revision": "cd4cb0b9aa5a9eaabda3",
     "url": "/robofriends/static/css/main.b32a5089.chunk.css"
   },
   {
-    "revision": "d61f83b979b166f8327b",
-    "url": "/robofriends/static/js/main.d61f83b9.chunk.js"
+    "revision": "cd4cb0b9aa5a9eaabda3",
+    "url": "/robofriends/static/js/main.cd4cb0b9.chunk.js"
   },
   {
     "revision": "f35cd20dc4da50a92aeb",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/robofriends/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "03ba510233f2857694a2155c25753f66",
+    "revision": "30c46902df24bbc3126bfdc4a2c96485",
     "url": "/robofriends/index.html"
   }
 ];
